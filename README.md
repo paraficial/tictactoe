@@ -1,4 +1,7 @@
 # tictactoe
+
+![alt tag](https://github.com/paraficial/tictactoe/blob/master/tictactoe_example.png)
+
 This is a free Tic Tac Toe Game written in C++ and Qt.
 
 The project was developed in Qt-Creator 3.5.1, the project file is provided.
