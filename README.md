@@ -1,10 +1,10 @@
-# tictactoe
+# Tic Tac Toe
 
 ![screenshot](./tictactoe_example.png)
 
-This is a free Tic Tac Toe Game written in C++ and Qt.
+This is a free Tic Tac Toe Game written in C++ and Qt. The computer agent uses the Minimax algorithm to determine its next move. Due to the search space size, the computer agent plays perfect and can not loose a game.
 
-The project was developed in Qt-Creator 3.5.1, the project file is provided.
+The project was developed in Qt-Creator 3.5.1.
 
 ## Game features
 - HumanPlayer vs. HumanPlayer
